@@ -6,4 +6,5 @@ import cerkeira.dio.santanderdesafiofinal.domain.model.User;
 
 public interface UserRepository extends JpaRepository<User, Long>{
 
-}
+	boolean existsByAccountNumber(String accountNUmber);
+}	

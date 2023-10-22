@@ -1,4 +1,4 @@
-package cerkeira.dio.santanderdesafiofinal;
+package cerkeira.dio.santanderdesafiofinal.domain.model;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

@@ -46,11 +46,11 @@ public class User {
 		this.name = name;
 	}
 
-	public Account getAccoun() {
+	public Account getAccount() {
 		return account;
 	}
 
-	public void setAccoun(Account accoun) {
+	public void setAccount(Account accoun) {
 		this.account = accoun;
 	}
 
